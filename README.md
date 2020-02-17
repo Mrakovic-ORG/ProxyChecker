@@ -1,4 +1,5 @@
 # ProxyChecker
+[![Build Status](https://travis-ci.com/Mrakovic-ORG/ProxyChecker.svg?branch=master)](https://travis-ci.com/Mrakovic-ORG/ProxyChecker)
 Simple and fast proxy checker
 
 ## Info
